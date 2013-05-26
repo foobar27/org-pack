@@ -1,0 +1,6 @@
+[submodule "lib/vendor/org-mode"]
+	path = lib/vendor/org-mode
+	url = git://orgmode.org/org-mode.git
+[submodule "lib/vendor/org-reveal"]
+	path = lib/vendor/org-reveal
+	url = https://github.com/yjwen/org-reveal.git
